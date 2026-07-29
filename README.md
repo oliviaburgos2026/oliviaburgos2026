@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Olivia%20Burgos%20Blanco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20SQL%20|%20Python%20|%20Power%20BI&descAlignY=55"/>
 </p>
 
-<p align="center">
-<img src="TU_URL_DE_LA_FOTO" width="220" style="border-radius:50%">
-</p>
+
 
 <h1 align="center">
 Hola  Soy Olivia Burgos Blanco
@@ -28,7 +26,7 @@ Hola  Soy Olivia Burgos Blanco
 
 ---
 
-# 👩‍💻 Sobre mí
+#  Sobre mí
 
 Soy Analista de Datos apasionada por transformar datos en información útil para la toma de decisiones.
 
