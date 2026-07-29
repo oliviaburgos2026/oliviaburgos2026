@@ -102,7 +102,7 @@ Incluye:
 
 ---
 
-# 📈 Estadísticas
+#  Estadísticas
 
 <p align="center">
 
