@@ -100,27 +100,7 @@ Incluye:
 
  https://github.com/oliviaburgos2026/red-logistica
 
----
 
-#  Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oliviaburgos2026&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaburgos2026&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-#  Logros
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oliviaburgos2026&theme=algolia"/>
-
-</p>
 
 ---
 
