@@ -98,7 +98,7 @@ Incluye:
 
  Repositorio:
 
- https://github.com/oliviaburgos2026/red-logistica
+ https://github.com/Camilogigom/red-logistica
 
 
 
